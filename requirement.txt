@@ -1,0 +1,8 @@
+customtkinter
+python-docx
+PyPDF2
+openpyxl
+pandas
+GPT4All
+pytesseract
+pytesseract pillow
