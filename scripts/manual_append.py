@@ -74,7 +74,7 @@ def select_files():
     return list(file_paths)
 
 if __name__ == "__main__":
-    model_path = r"C:\Users\Allen York\Project\nomic.ai\GPT4All\Llama-3.2-1B-Instruct-Q4_0.gguf"
+    model_path = r"C:\Users\Allen York\Project\nomic.ai\GPT4All\mistral-7b-instruct-v0.1.Q4_0.gguf"
     jsonl_path = r"C:\Users\Allen York\Project\project_email_ai\data\knowledge_base.jsonl"
 
     if not os.path.exists(model_path):
